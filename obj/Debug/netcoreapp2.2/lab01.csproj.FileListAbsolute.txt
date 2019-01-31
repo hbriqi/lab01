@@ -1,0 +1,14 @@
+/home/devuser01/lab01/bin/Debug/netcoreapp2.2/lab01.deps.json
+/home/devuser01/lab01/bin/Debug/netcoreapp2.2/lab01.runtimeconfig.json
+/home/devuser01/lab01/bin/Debug/netcoreapp2.2/lab01.runtimeconfig.dev.json
+/home/devuser01/lab01/bin/Debug/netcoreapp2.2/lab01.dll
+/home/devuser01/lab01/bin/Debug/netcoreapp2.2/lab01.pdb
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.csprojAssemblyReference.cache
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.csproj.CoreCompileInputs.cache
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.RazorAssemblyInfo.cache
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.RazorAssemblyInfo.cs
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.AssemblyInfoInputs.cache
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.AssemblyInfo.cs
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.RazorTargetAssemblyInfo.cache
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.dll
+/home/devuser01/lab01/obj/Debug/netcoreapp2.2/lab01.pdb
