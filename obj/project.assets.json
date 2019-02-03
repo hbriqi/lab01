@@ -12072,28 +12072,30 @@
     ]
   },
   "packageFolders": {
-    "/home/devuser01/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\hbreiky\\.nuget\\packages\\": {},
+    "D:\\tools\\dotnet22\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/devuser01/lab01/lab01.csproj",
+      "projectUniqueName": "D:\\RD\\lab01\\lab01.csproj",
       "projectName": "lab01",
-      "projectPath": "/home/devuser01/lab01/lab01.csproj",
-      "packagesPath": "/home/devuser01/.nuget/packages/",
-      "outputPath": "/home/devuser01/lab01/obj/",
+      "projectPath": "D:\\RD\\lab01\\lab01.csproj",
+      "packagesPath": "C:\\Users\\hbreiky\\.nuget\\packages\\",
+      "outputPath": "D:\\RD\\lab01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "D:\\tools\\dotnet22\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/devuser01/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hbreiky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
